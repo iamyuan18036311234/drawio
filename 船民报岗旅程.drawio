@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="K4Q58S2bEFE87U7GsTeJ">
+    <mxGraphModel dx="1488" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="驾船到达码头" vertex="1">
+          <mxGeometry height="300" width="150" x="150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="2" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699734-icon-6-smiling-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="2" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="到港报岗" vertex="1">
+          <mxGeometry height="30" width="150" x="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="扫描报岗二维码" vertex="1">
+          <mxGeometry height="300" width="150" x="350" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="6" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="6" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="填写报岗信息(船号/载重/件数/航向)" vertex="1">
+          <mxGeometry height="300" width="150" x="550" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="9" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="9" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="填写回头货信息(如有)" vertex="1">
+          <mxGeometry height="300" width="150" x="750" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="12" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699741-icon-7-sad-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="12" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="提交报岗" vertex="1">
+          <mxGeometry height="300" width="150" x="950" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="15" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699734-icon-6-smiling-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="15" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="等待匹配结果" vertex="1">
+          <mxGeometry height="300" width="150" x="1150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="18" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699741-icon-7-sad-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="18" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="等待调度" vertex="1">
+          <mxGeometry height="30" width="150" x="1150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="回头货卸货(如适用)" vertex="1">
+          <mxGeometry height="300" width="150" x="1350" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="22" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699721-icon-5-neutral-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="22" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="通知卸货完成" vertex="1">
+          <mxGeometry height="300" width="150" x="1550" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="25" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699734-icon-6-smiling-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="25" style="ellipse;aspect=fixed;fillColor=#8FBC8F" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="收到装货通知" vertex="1">
+          <mxGeometry height="300" width="150" x="1750" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="28" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699734-icon-6-smiling-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="28" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="确认装货" vertex="1">
+          <mxGeometry height="30" width="150" x="1750" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="32" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=30;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="装货离港" vertex="1">
+          <mxGeometry height="300" width="150" x="1950" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="32" style="shape=image;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699734-icon-6-smiling-face-128.png;imageBackground=default;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="60" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="34" parent="32" style="ellipse;aspect=fixed;fillColor=#7CFC00" vertex="1">
+          <mxGeometry height="12" width="12" x="5" y="-6" as="geometry" />
+        </mxCell>
+        <mxCell id="35" edge="1" parent="1" style="endArrow=block;strokeWidth=3;endFill=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="190" as="sourcePoint" />
+            <mxPoint x="2150" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="36" parent="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=20;fontStyle=1" value="船民报岗旅程" vertex="1">
+          <mxGeometry height="40" width="72" x="150" as="geometry" />
+        </mxCell>
+        <mxCell id="37" parent="1" style="ellipse;aspect=fixed;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=10;fillColor=#8FBC8F" value="排单员" vertex="1">
+          <mxGeometry height="12" width="12" x="10" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="38" parent="1" style="ellipse;aspect=fixed;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=10;fillColor=#7CFC00" value="船民" vertex="1">
+          <mxGeometry height="12" width="12" x="10" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
